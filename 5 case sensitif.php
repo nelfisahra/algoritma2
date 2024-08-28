@@ -21,6 +21,6 @@ echo
 "<p> nama saya adalah $nama",
 "<p> nama guru saya adalah $NAMAGURUSAYA",
 "<p> umur saya $UMUR tahun";
-"<p> saya lahir tahun $tahunlahir";
+"<p> saya tanggal lahir $tanggallahir";
 
 ?>
