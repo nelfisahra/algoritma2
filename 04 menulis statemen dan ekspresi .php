@@ -9,7 +9,7 @@ $a1 = $b * $c;
 $a2 = $b + $c;
 // cetak ekspresi
 echo "<p>ini ekspresi -> $a1 = $b * $c <p> ";
-echo "<p>ini ekspresi -> $a1 = $b * $C <p> ";
+echo "<p>ini ekspresi -> $a1 = $b * $c <p> ";
 echo "<p> yaitu :" .$a1;
 echo "<p> yaitu :" .$a2;
 echo "<p> by nelfi sahra berutu </p>";
