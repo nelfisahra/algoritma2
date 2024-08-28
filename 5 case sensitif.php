@@ -9,17 +9,18 @@ $inijugavariabel = 49 ;
 $inijugavariabel ;
 $tahunlahir =2008;
 
-echo "<p> nama saya adalah $nama";
-echo "<p> nama guru saya adalah $NAMAGURUSAYA";
-echo "<p> umur saya adalah $umur";
-echo "<p> saya lahir tahun $umur";
+echo "====mencetak variabel====";
+echo "<p>nama saya adalah $nama";
+echo "<p>nama guru saya adalah $NAMAGURUSAYA";
+echo "<p>umur saya adalah $umur";
+echo "<p>saya lahir tanggal $umur";
 
 echo
 
 "<p> coba pakai blok program",
 "<p> nama saya adalah $nama",
 "<p> nama guru saya adalah $NAMAGURUSAYA",
-"<p> umur saya $umur tahun";
+"<p> umur saya $UMUR tahun";
 "<p> saya lahir tahun $tahunlahir";
 
 ?>
