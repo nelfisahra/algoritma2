@@ -7,13 +7,13 @@ const INI_KONSTANTA = 123 ;
 $ini_variabel = 23;
 $inijugavariabel = 49 ;
 $inijugavariabel ;
-$tahunlahir =2008;
+$tanggallahir =04;
 
 echo "====mencetak variabel====";
 echo "<p>nama saya adalah $nama";
 echo "<p>nama guru saya adalah $NAMAGURUSAYA";
-echo "<p>umur saya adalah $umur";
-echo "<p>saya lahir tanggal $umur";
+echo "<p>umur saya adalah $UMUR";
+echo "<p>saya lahir tanggal $UMUR";
 
 echo
 
