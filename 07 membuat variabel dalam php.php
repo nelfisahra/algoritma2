@@ -44,4 +44,4 @@ $namapembeli, "<p>".
 $harga, "<p>".
 $belajar, "<p>".
 $belajar, "<p>".
-$belajar, "<p>".
+$belajar;
