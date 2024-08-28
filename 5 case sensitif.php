@@ -11,7 +11,7 @@ $tahunlahir =2008;
 
 echo "<p> nama saya adalah $nama";
 echo "<p> nama guru saya adalah $NAMAGURUSAYA";
-ECHO "<p> umur saya adalah $umur";
+echo "<p> umur saya adalah $umur";
 echo "<p> saya lahir tahun $umur";
 
 echo
